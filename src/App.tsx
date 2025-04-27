@@ -6,7 +6,7 @@ const PageWrapper = ({ children }: { children: React.ReactNode }) => (
 
 const Hello = () => (
   <div className="grid text-5xl place-items-center w-full h-full">
-    <div>Hello</div>
+    <div>Hello World</div>
   </div>
 );
 
